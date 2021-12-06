@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.test.EditController">
+   <children>
+      <Button fx:id="buttonReturn" layoutX="238.0" layoutY="165.0" mnemonicParsing="false" onAction="#switchToHome" text="Button" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#327bbf" height="200.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+   </children>
+</AnchorPane>

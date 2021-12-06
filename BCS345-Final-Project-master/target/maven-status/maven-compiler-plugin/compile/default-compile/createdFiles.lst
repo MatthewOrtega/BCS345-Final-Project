@@ -1,0 +1,5 @@
+com\mycompany\test\EditController.class
+module-info.class
+com\mycompany\test\App.class
+com\mycompany\test\SecondaryController.class
+com\mycompany\test\PrimaryController.class
